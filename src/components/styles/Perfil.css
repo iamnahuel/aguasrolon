@@ -1,0 +1,32 @@
+.perfil {
+    position: absolute;
+    top: 0%;
+    left: 0%;
+    height: 100%;
+    width: 100%;
+    background: rgb(2,228,250);
+    background: linear-gradient(180deg, rgba(2,228,250,1) 0%, rgba(247,249,250,1) 100%);    
+}
+.navbar {
+    background:#6D6E6F;
+    
+}
+.btn {
+    background: rgb(83, 175, 250);
+    margin-left: 1%;
+}
+.form-control{
+    margin-left: 3%;
+}
+.nav-link, .spanNombre{
+    color: white;
+    margin-left: auto;
+    
+}
+.nav-link:hover{
+    color:#6D6E6F;
+    background: white;
+}
+.spanNombre{
+    margin-right: 2%;
+}

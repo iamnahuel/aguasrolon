@@ -1,0 +1,40 @@
+.registro {
+    position: absolute;
+    margin-top: 0%;
+    top: 0%;
+    left: 0%;
+    height: 100%;
+    width: 100%;
+    background: rgb(2,228,250);
+    background: linear-gradient(180deg, rgba(2,228,250,1) 0%, rgba(247,249,250,1) 100%);     
+}
+h5{
+    color: black;
+}
+.row{
+    min-height: 100%;
+    position: absolute;
+    margin-top: 0%;
+    left: 0%;
+    height: 100%;
+    width: 100%;  
+}
+span{
+    color: gray;
+    font-size: 15px;
+    margin-left: 5px;
+}
+.form-group{
+    display: block;
+    margin: 4px;
+}
+.footer{
+    background-color: black;
+    text-align: center;
+    height: 40px;
+    color: white;
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+}

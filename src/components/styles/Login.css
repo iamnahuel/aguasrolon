@@ -1,0 +1,24 @@
+.login {
+    position: absolute;
+    top: 0%;
+    left: 0%;
+    
+    height: 100%;
+    width: 100%;
+    background: rgb(2,228,250);
+    background: linear-gradient(180deg, rgba(2,228,250,1) 0%, rgba(247,249,250,1) 100%);    
+}
+.row{
+    margin-top: 12%;
+}
+.logo{
+    text-align: center;
+    display: block;
+    justify-content: center;
+    align-items: center;
+    margin: auto;
+    margin-top: 2%;
+  }
+  h3{
+      color:black;
+  }
